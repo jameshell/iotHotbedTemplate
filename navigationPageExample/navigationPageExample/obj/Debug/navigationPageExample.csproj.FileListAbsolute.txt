@@ -1,0 +1,17 @@
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\navigationPageExample.dll
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\navigationPageExample.pdb
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.MainPage.xaml.g.cs
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.App.xaml.g.cs
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.dll
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.pdb
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.Views.Page1.xaml.g.cs
+c:\users\james\documents\visual studio 2017\Projects\navigationPageExample\navigationPageExample\navigationPageExample\obj\Debug\navigationPageExample.Views.Page2.xaml.g.cs
